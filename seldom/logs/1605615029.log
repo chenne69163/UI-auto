@@ -1,0 +1,21 @@
+[32m2020-11-17 20:10:32 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-11-17 20:10:32 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:10:33 [INFO] 🖋 input 'seldom'.[0m
+[32m2020-11-17 20:10:33 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:10:34 [INFO] 🖱 click.[0m
+[32m2020-11-17 20:10:35 [INFO] 👀 assertIn title: seldom_百度搜索.[0m
+[32m2020-11-17 20:10:35 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:10:36 [INFO] 🖋 input '字节跳动'.[0m
+[32m2020-11-17 20:10:36 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:10:37 [INFO] 🖱 click.[0m
+[33m2020-11-17 20:10:47 [WARNING] ❌ assertIn fail: seldom_百度.[0m
+[32m2020-11-17 20:10:48 [INFO] generated html file: file:////Users/chenneng/Desktop/UI_auto/seldom/reports/2020_11_17_20_10_32_result.html[0m

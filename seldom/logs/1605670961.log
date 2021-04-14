@@ -1,0 +1,26 @@
+[32m2020-11-18 11:42:44 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-11-18 11:42:46 [INFO] ✅ Find element: id=login_username [0m
+[32m2020-11-18 11:42:46 [INFO] 🖋 input 'admin'.[0m
+[32m2020-11-18 11:42:46 [INFO] ✅ Find element: id=login_password [0m
+[32m2020-11-18 11:42:47 [INFO] 🖋 input 'Pwd123456'.[0m
+[32m2020-11-18 11:42:47 [INFO] ✅ Find element: xpath=//button[@type="submit"] [0m
+[32m2020-11-18 11:42:48 [INFO] 🖱 click.[0m
+[32m2020-11-18 11:42:52 [INFO] 👀 assertIn url: http://192.168.129.30:6060/chooseTenant.[0m
+[32m2020-11-18 11:42:52 [INFO] 👀 assertIn title: ddd容器云管理平台qqq.[0m
+[32m2020-11-18 11:42:52 [INFO] ✅ Find element: id=login_username [0m
+[32m2020-11-18 11:42:53 [INFO] 🖋 input 'admin'.[0m
+[32m2020-11-18 11:42:53 [INFO] ✅ Find element: id=login_password [0m
+[32m2020-11-18 11:42:54 [INFO] 🖋 input 'Pwd123'.[0m
+[32m2020-11-18 11:42:54 [INFO] ✅ Find element: xpath=//button[@type="submit"] [0m
+[32m2020-11-18 11:42:55 [INFO] 🖱 click.[0m
+[32m2020-11-18 11:42:55 [INFO] 👀 assertIn url: http://192.168.129.30:6060/sso/interaction/compass-web.[0m
+[32m2020-11-18 11:42:56 [INFO] generated html file: file:////Users/chenneng/Desktop/UI_auto/seldom/reports/2020_11_18_11_42_44_result.html[0m

@@ -1,0 +1,19 @@
+[32m2020-11-18 11:39:47 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-11-18 11:39:49 [INFO] ✅ Find element: id=login_username [0m
+[32m2020-11-18 11:39:49 [INFO] 🖋 input 'admin'.[0m
+[32m2020-11-18 11:39:49 [INFO] ✅ Find element: id=login_password [0m
+[32m2020-11-18 11:39:50 [INFO] 🖋 input 'Pwd123456'.[0m
+[32m2020-11-18 11:39:50 [INFO] ✅ Find element: xpath=//button[@type="submit"] [0m
+[32m2020-11-18 11:39:51 [INFO] 🖱 click.[0m
+[32m2020-11-18 11:39:55 [INFO] 👀 assertIn url: http://192.168.129.30:6060/chooseTenant.[0m
+[32m2020-11-18 11:39:55 [INFO] 👀 assertIn title: ddd容器云管理平台qqq.[0m
+[32m2020-11-18 11:39:55 [INFO] generated html file: file:////Users/chenneng/Desktop/UI_auto/seldom/reports/2020_11_18_11_39_47_result.html[0m

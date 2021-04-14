@@ -1,0 +1,29 @@
+[32m2020-11-17 20:31:58 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-11-17 20:32:00 [INFO] ✅ Find element: id=login_username [0m
+[32m2020-11-17 20:32:01 [INFO] 🖋 input 'admin'.[0m
+[32m2020-11-17 20:32:01 [INFO] ✅ Find element: id=login_password [0m
+[32m2020-11-17 20:32:01 [INFO] 🖋 input 'Pwd123456'.[0m
+[32m2020-11-17 20:32:02 [INFO] ✅ Find element: xpath=//button[@type="submit"] [0m
+[32m2020-11-17 20:32:02 [INFO] 🖱 click.[0m
+[32m2020-11-17 20:32:07 [INFO] 👀 assertIn url: http://192.168.129.30:6060/chooseTenant.[0m
+[32m2020-11-17 20:32:07 [INFO] 👀 assertIn title: ddd容器云管理平台qqq.[0m
+[32m2020-11-17 20:32:07 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:32:08 [INFO] 🖋 input 'seldom'.[0m
+[32m2020-11-17 20:32:08 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:32:09 [INFO] 🖱 click.[0m
+[32m2020-11-17 20:32:10 [INFO] 👀 assertIn title: seldom_百度搜索.[0m
+[32m2020-11-17 20:32:10 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:32:11 [INFO] 🖋 input '字节跳动'.[0m
+[32m2020-11-17 20:32:11 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:32:12 [INFO] 🖱 click.[0m
+[32m2020-11-17 20:32:13 [INFO] 👀 assertIn title: 字节跳动_百度搜索.[0m
+[32m2020-11-17 20:32:13 [INFO] generated html file: file:////Users/chenneng/Desktop/UI_auto/seldom/reports/2020_11_17_20_31_58_result.html[0m

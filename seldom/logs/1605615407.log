@@ -1,0 +1,26 @@
+[32m2020-11-17 20:16:50 [INFO] 
+            _      _                   
+           | |    | |                  
+ ___   ___ | |  __| |  ___   _ __ ___  
+/ __| / _ \| | / _` | / _ \ | '_ ` _ \ 
+\__ \|  __/| || (_| || (_) || | | | | |
+|___/ \___||_| \__,_| \___/ |_| |_| |_| 
+-----------------------------------------
+                             @itest.info
+[0m
+[32m2020-11-17 20:16:52 [INFO] ✅ Find element: id=login_username [0m
+[32m2020-11-17 20:16:53 [INFO] 🖋 input 'admin'.[0m
+[32m2020-11-17 20:16:53 [INFO] ✅ Find element: id=login_password [0m
+[32m2020-11-17 20:16:54 [INFO] 🖋 input 'Pwd123456'.[0m
+[31m2020-11-17 20:17:04 [ERROR] ❌ Find 0 elements through: xpath=input[@button='submit'][0m
+[32m2020-11-17 20:17:05 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:17:06 [INFO] 🖋 input 'seldom'.[0m
+[32m2020-11-17 20:17:06 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:17:07 [INFO] 🖱 click.[0m
+[32m2020-11-17 20:17:08 [INFO] 👀 assertIn title: seldom_百度搜索.[0m
+[32m2020-11-17 20:17:08 [INFO] ✅ Find element: id=kw [0m
+[32m2020-11-17 20:17:09 [INFO] 🖋 input '字节跳动'.[0m
+[32m2020-11-17 20:17:09 [INFO] ✅ Find element: css selector=#su [0m
+[32m2020-11-17 20:17:10 [INFO] 🖱 click.[0m
+[33m2020-11-17 20:17:20 [WARNING] ❌ assertIn fail: seldom_百度.[0m
+[32m2020-11-17 20:17:20 [INFO] generated html file: file:////Users/chenneng/Desktop/UI_auto/seldom/reports/2020_11_17_20_16_50_result.html[0m
